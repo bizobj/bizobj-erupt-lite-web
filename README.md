@@ -1,3 +1,5 @@
+**bizobj**: forked from https://github.com/erupts/erupt-web and plan to streamline its features.
+
 ---
 
 <p align="center"><img src="./src/erupt.svg" height="150" alt="logo"/></p>
